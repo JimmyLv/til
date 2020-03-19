@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Today I learned](today-i-learned.md)
+* [CHANGELOG](README.md)
+* [README](readme/README.md)
+  * [Today I learned](readme/today-i-learned.md)
 
